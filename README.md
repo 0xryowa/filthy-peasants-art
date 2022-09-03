@@ -7,6 +7,7 @@
 
 The art side of Filthy Peasants NFT collection.
 
+- [Filthy Peasants Contract](https://github.com/0xryowa/filthy-peasants-contract)
 - [Twitter](https://twitter.com/FilthyNFTs)
 - [OpenSea](https://opensea.io/collection/filthypeasants)
 - [Discord](https://t.co/91Q4fwRpVT)
