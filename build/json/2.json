@@ -1,0 +1,53 @@
+{
+  "name": "Filthy Peasant #2",
+  "description": "Collection for all folks who are grinding discord 24/7, retweeting all the tweets, tagging their friends left, right and center and still have nothing to show for it.",
+  "file_url": "ipfs://QmPzFgeXZ7ASRB3ubikVqWne3dDW2AWj6jP1eDUuiiohf7/2.png",
+  "image": "ipfs://QmPzFgeXZ7ASRB3ubikVqWne3dDW2AWj6jP1eDUuiiohf7/2.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "grass"
+    },
+    {
+      "trait_type": "hair",
+      "value": "ponytail_brown"
+    },
+    {
+      "trait_type": "right_arm",
+      "value": "knife"
+    },
+    {
+      "trait_type": "left_arm",
+      "value": "rounded_shield"
+    },
+    {
+      "trait_type": "bottom",
+      "value": "armor"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "none"
+    },
+    {
+      "trait_type": "top",
+      "value": "none"
+    },
+    {
+      "trait_type": "cape",
+      "value": "none"
+    },
+    {
+      "trait_type": "gloves",
+      "value": "none"
+    },
+    {
+      "trait_type": "head",
+      "value": "none"
+    }
+  ],
+  "custom_fields": {
+    "dna": "bfd53bd98c0bb919dbc789999717b521c142963d",
+    "edition": 2,
+    "date": 1661107901027
+  }
+}
