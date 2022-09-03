@@ -12,7 +12,7 @@ The art side of Filthy Peasants NFT collection.
 - [Discord](https://t.co/91Q4fwRpVT)
 - [Etherscan](https://etherscan.io/address/0xde892c47562a4a383f2f88447cd3082d5a9688e4)
 
-The very core of the project is from a [create-and-mint-nft-collection](https://github.com/thepeanutgalleryandco/create-and-mint-nft-collection)repository. If you need guidance on how to build the project, generate your own collection and make changes to the code. Look at the [linked](https://github.com/thepeanutgalleryandco/create-and-mint-nft-collection) repo and explore the documentation there.
+The very core of the project is from a [create-and-mint-nft-collection](https://github.com/thepeanutgalleryandco/create-and-mint-nft-collection) repository. If you need guidance on how to build the project, generate your own collection and make changes to the code. Look at the [linked](https://github.com/thepeanutgalleryandco/create-and-mint-nft-collection) repo and explore the documentation there.
 
 ## What is included?
 
